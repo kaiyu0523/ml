@@ -32,6 +32,5 @@
 |-----------|------|
 | `car lane detect.ipynb` | 主要程式碼 |
 | `LaneVideo.mp4` | 行車紀錄器影像 |
-| `DetectVideo.mp4` | 辨識結果影片 |
 
 ---
