@@ -35,8 +35,3 @@
 | `DetectVideo.mp4` | 辨識結果影片 |
 
 ---
-
-```bash
-# 範例指令
-python lane_detect.py
-
